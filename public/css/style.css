@@ -481,9 +481,7 @@ footer{
 .rating-bar input[type="radio"]:checked ~ label {
   color: orange;
 }
-/* .bi bi-geo-fill
-{
 
 
 
-} */
+
